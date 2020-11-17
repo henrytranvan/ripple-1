@@ -51,6 +51,10 @@ exports[`RippleStoryshots Organisms/SiteHeader Site Header 1`] = `
               </button>
                
               <div
+                class="rpl-site-header__divider rpl-site-header__divider--vic rpl-site-header__divider--has-both"
+              />
+               
+              <div
                 class="rpl-site-header__title rpl-site-header__logo-container--vic-logo-primary rpl-site-header__logo-container--vic-logo-primary--cobrand"
               >
                 <a
@@ -68,6 +72,10 @@ exports[`RippleStoryshots Organisms/SiteHeader Site Header 1`] = `
                   </span>
                 </a>
               </div>
+               
+              <div
+                class="rpl-site-header__divider rpl-site-header__divider--cobrand rpl-site-header__divider--has-both"
+              />
                
               <div
                 class="rpl-site-header__title"
